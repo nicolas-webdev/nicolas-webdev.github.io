@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Nicolas Giaconia</title>
+        <link>undefined</link>
+        <description>Your blog description</description>
+        <lastBuildDate>Thu, 30 Mar 2023 13:37:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Nicolas Giaconia</title>
+            <url>undefined/favicon.ico</url>
+            <link>undefined</link>
+        </image>
+        <copyright>All rights reserved 2023</copyright>
+        <item>
+            <title><![CDATA[Crafting a design system for a multiplanetary future]]></title>
+            <link>undefined/articles/crafting-a-design-system-for-a-multiplanetary-future</link>
+            <guid>undefined/articles/crafting-a-design-system-for-a-multiplanetary-future</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Most companies try to stay ahead of the curve when it comes to visual design, but for Planetaria we needed to create a brand that would still inspire us 100 years from now when humanity has spread across our entire solar system.]]></description>
+            <author>nicobsas+work@gmail.com (Nicolas Giaconia)</author>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Animaginary: High performance web animations]]></title>
+            <link>undefined/articles/introducing-animaginary</link>
+            <guid>undefined/articles/introducing-animaginary</guid>
+            <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[When you’re building a website for a company as ambitious as Planetaria, you need to make an impression. I wanted people to visit our website and see animations that looked more realistic than reality itself.]]></description>
+            <author>nicobsas+work@gmail.com (Nicolas Giaconia)</author>
+        </item>
+        <item>
+            <title><![CDATA[Rewriting the cosmOS kernel in Rust]]></title>
+            <link>undefined/articles/rewriting-the-cosmos-kernel-in-rust</link>
+            <guid>undefined/articles/rewriting-the-cosmos-kernel-in-rust</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[When we released the first version of cosmOS last year, it was written in Go. Go is a wonderful programming language, but it’s been a while since I’ve seen an article on the front page of Hacker News about rewriting some important tool in Go and I see articles on there about rewriting things in Rust every single week.]]></description>
+            <author>nicobsas+work@gmail.com (Nicolas Giaconia)</author>
+        </item>
+    </channel>
+</rss>
